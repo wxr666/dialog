@@ -1,0 +1,27 @@
+.btn{
+    color:red;
+}
+.mark{
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:9;
+}
+.dialog{
+    position:absolute;
+    color:white;
+    z-index:19;
+    border-radius:10px;
+}
+.dialog h2{
+    width:300px;
+    text-align:center;
+    line-height:50px;
+}
+.dialog p span{
+    width:150px;
+    display:block;
+    float:left;
+    text-align:center;
+    cursor:pointer;
+}
